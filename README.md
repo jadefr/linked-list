@@ -12,3 +12,7 @@ Lista encadeada em Java
 * deleteData(int data)
   - Procura pelo valor recebido e o apaga da lista (i.e., deixa de referenciá-lo)
   - É necessário percorrer a lista cadencialmente até achar o valor desejado
+
+## Representação Gráfica
+
+![Image of screenshot](https://raw.githubusercontent.com/jadefr/ontology-testing/master/linked-list.png)
